@@ -3,6 +3,7 @@ import "./App.css";
 import SkillsComponent from "./components/SkillsComponent";
 import EducationComponent from "./components/EducationComponent";
 import WorkingExperience from "./components/WorkingExperience";
+import ProjectComponent from "./components/ProjectComponent";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <SkillsComponent />
           <EducationComponent />
           <WorkingExperience />
+          <ProjectComponent />
         </div>
         <div className="col-12 col-sm-4 offset-1 position-static">
           <h1>Card</h1>

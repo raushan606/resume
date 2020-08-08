@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function WorkingExperience() {
+export default function ProjectComponent() {
   return (
     <div>
       <div className="row mt-4">
