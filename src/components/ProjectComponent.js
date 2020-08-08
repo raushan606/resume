@@ -4,49 +4,99 @@ export default function ProjectComponent() {
   return (
     <div>
       <div className="row mt-4">
-        <div className="col-3">
+        <div className="col-4">
           <hr className="hrr"></hr>
         </div>
-        <div className="col-6">
-          <p className="text-center">WORK EXPERIENCE</p>
+        <div className="col-4">
+          <p className="text-center">PROJECTS</p>
         </div>
-        <div className="col-3">
+        <div className="col-4">
           <hr className="hrr"></hr>
         </div>
       </div>
       <div className="row">
         <div className="col-3">
-          <p className="font-weight-bold text-secondary">May 2020 - Present</p>
+          <p className="font-weight-bold text-secondary">TASKIFY APPLICATION</p>
         </div>
         <div className="col-8 offset-1 text-justify">
           <p className="para">
-            <strong>Slack Upskilling Community Manager</strong>
-            <br />
-            SKILLSANTA
-            <br />
-            <span className="font-italic">
-              Manage Slack channel. Solve doubts of students and Posts quizzes
-              and assignment.
-            </span>
+            An application build in Node.js, Express.js and MongoDB. It stores
+            tasks of the user. It has login and signup functionality. User can
+            create, read, update and delete tasks.{" "}
+            <a
+              className="font-italic"
+              href="https://github.com/raushan606/Taskify"
+            >
+              Github
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div className="row">
+        <div className="col-3">
+          <p className="font-weight-bold text-secondary">YOUTUBE DOWNLOADER</p>
+        </div>
+        <div className="col-8 offset-1 text-justify">
+          <p className="para">
+            A desktop application built using Tkinter. It can download youtube
+            video in high or low quality on entered URL.{" "}
+            <a
+              className="font-italic"
+              href="https://github.com/raushan606/YouTube_Downloader"
+            >
+              Github
+            </a>
           </p>
         </div>
       </div>
       <div className="row">
         <div className="col-3">
-          <p className="font-weight-bold text-secondary">
-            May 2020 - July 2020
-          </p>
+          <p className="font-weight-bold text-secondary">RNEWS</p>
         </div>
         <div className="col-8 offset-1 text-justify">
           <p className="para">
-            <strong>Backend Development Intern</strong>
-            <br />
-            GIRLSCRIPT FOUNDATION
-            <br />
-            <span className="font-italic">
-              Built REST APIs for E-learning platform in Node.js, Express.js and
-              MongoDB
-            </span>
+            It is a news app in Java. It fetches data from Newsapi.org. It shows
+            news realted to technology.{" "}
+            <a
+              className="font-italic"
+              href="https://github.com/raushan606/RNews"
+            >
+              Github
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div className="row">
+        <div className="col-3">
+          <p className="font-weight-bold text-secondary">COVID-19 HELPER</p>
+        </div>
+        <div className="col-8 offset-1 text-justify">
+          <p className="para">
+            This is web application built in React.js. It will show current
+            stats and help you in finding help from government.{" "}
+            <a
+              className="font-italic"
+              href="https://github.com/raushan606/Covid-Project"
+            >
+              Github
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div className="row">
+        <div className="col-3">
+          <p className="font-weight-bold text-secondary">PORTFOLIO</p>
+        </div>
+        <div className="col-8 offset-1 text-justify">
+          <p className="para">
+            This is my personal portfolio site. Built using HTML, CSS,
+            JavaScript and Bootstrap4.{" "}
+            <a className="font-italic" href="https://raushan606.github.io/">
+              Link
+            </a>
           </p>
         </div>
       </div>
