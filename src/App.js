@@ -5,6 +5,7 @@ import EducationComponent from "./components/EducationComponent";
 import WorkingExperience from "./components/WorkingExperience";
 import ProjectComponent from "./components/ProjectComponent";
 import ContactComponent from "./components/ContactComponent";
+import CertficatesComponents from "./components/CertficatesComponents";
 
 function App() {
   return (
@@ -16,9 +17,10 @@ function App() {
             Raushan Kumar
           </h5>
           <SkillsComponent />
-          <EducationComponent />
           <WorkingExperience />
+          <EducationComponent />
           <ProjectComponent />
+          <CertficatesComponents />
           <ContactComponent />
         </div>
         <div className="col-12 col-sm-4 offset-1 position-static">
