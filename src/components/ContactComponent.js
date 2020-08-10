@@ -21,13 +21,13 @@ export default function ContactComponent() {
       </div>
       <div className="row ">
         <div className="col-12 d-flex justify-content-center">
-          <a href="https://github.com/raushan606" target="_blank">
+          <a href="https://github.com/raushan606" >
             <FontAwesomeIcon color="black" className="mx-2" icon={faGithub} />
           </a>
-          <a href="https://twitter.com/_var_const" target="_blank">
+          <a href="https://twitter.com/_var_const" >
             <FontAwesomeIcon color="black" className="mx-2" icon={faTwitter} />
           </a>
-          <a href="https://www.linkedin.com/in/raushan606/" target="_blank">
+          <a href="https://www.linkedin.com/in/raushan606/" >
             <FontAwesomeIcon color="black" className="mx-2" icon={faLinkedin} />{" "}
           </a>
         </div>

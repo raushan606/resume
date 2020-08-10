@@ -23,10 +23,7 @@ export default function CertficatesComponents() {
             Server-side Development with NodeJS, Express and MongoDB
             <br />
             <span className="font-italic">
-              <a
-                href="https://www.coursera.org/account/accomplishments/certificate/AP7KXWE3NJWJ"
-                target="_blank"
-              >
+              <a href="https://www.coursera.org/account/accomplishments/certificate/AP7KXWE3NJWJ">
                 Link
               </a>
             </span>
@@ -35,10 +32,7 @@ export default function CertficatesComponents() {
             Divide and Conquer, Sorting and Searching, and Randomized Algorithms
             <br />
             <span className="font-italic">
-              <a
-                href="https://www.coursera.org/account/accomplishments/certificate/X69LF965ZYEJ"
-                target="_blank"
-              >
+              <a href="https://www.coursera.org/account/accomplishments/certificate/X69LF965ZYEJ">
                 Link
               </a>
             </span>
@@ -47,10 +41,7 @@ export default function CertficatesComponents() {
             Machine Learning
             <br />
             <span className="font-italic">
-              <a
-                href="https://www.coursera.org/account/accomplishments/certificate/2PQCH4YPHDHQ"
-                target="_blank"
-              >
+              <a href="https://www.coursera.org/account/accomplishments/certificate/2PQCH4YPHDHQ">
                 Link
               </a>
             </span>
@@ -66,10 +57,7 @@ export default function CertficatesComponents() {
             The Complete Node.js Developer Course (3rd Edition)
             <br />
             <span className="font-italic">
-              <a
-                href="https://www.udemy.com/certificate/UC-55e6cb2f-cec3-4281-b563-73d78493c420/"
-                target="_blank"
-              >
+              <a href="https://www.udemy.com/certificate/UC-55e6cb2f-cec3-4281-b563-73d78493c420/">
                 Link
               </a>
             </span>
@@ -78,10 +66,7 @@ export default function CertficatesComponents() {
             JavaScript Bootcamp - Build Real World Applications
             <br />
             <span className="font-italic">
-              <a
-                href="https://www.udemy.com/certificate/UC-f69162e2-2a97-4edd-8573-1caefb19aa38/"
-                target="_blank"
-              >
+              <a href="https://www.udemy.com/certificate/UC-f69162e2-2a97-4edd-8573-1caefb19aa38/">
                 Link
               </a>
             </span>

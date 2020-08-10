@@ -27,13 +27,13 @@ export default function CardComponent() {
         </div>
         <div className="card-footer">
           <div className="col-12 d-flex justify-content-center">
-            <a href="https://github.com/raushan606" target="_blank">
+            <a href="https://github.com/raushan606">
               <FontAwesomeIcon color="grey" className="mx-2" icon={faGithub} />
             </a>
-            <a href="https://twitter.com/_var_const" target="_blank">
+            <a href="https://twitter.com/_var_const">
               <FontAwesomeIcon color="grey" className="mx-2" icon={faTwitter} />
             </a>
-            <a href="https://www.linkedin.com/in/raushan606/" target="_blank">
+            <a href="https://www.linkedin.com/in/raushan606/">
               <FontAwesomeIcon
                 color="grey"
                 className="mx-2"
