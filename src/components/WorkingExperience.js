@@ -16,6 +16,25 @@ export default function WorkingExperience() {
       </div>
       <div className="row">
         <div className="col-3">
+          <p className="font-weight-bold text-secondary">
+            September 2020 - Present
+          </p>
+        </div>
+        <div className="col-8 offset-1 text-justify">
+          <p className="para">
+            <strong>Software Developer Intern</strong>
+            <br />
+            ZUBI INFOTECH PRIVATE LIMITED
+            <br />
+            <span className="font-italic">
+              Responsible for build REST APIs in Node.js, Express.js and
+              MongoDB, and integrating React-Admin with DataProvider.
+            </span>
+          </p>
+        </div>
+      </div>
+      <div className="row">
+        <div className="col-3">
           <p className="font-weight-bold text-secondary">May 2020 - Present</p>
         </div>
         <div className="col-8 offset-1 text-justify">
