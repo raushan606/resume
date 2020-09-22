@@ -1,4 +1,5 @@
 import React from "react";
+import './Card.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
@@ -8,7 +9,7 @@ import {
 
 export default function CardComponent() {
   return (
-    <div className="d-flex justify-content-center">
+    <div className="d-flex justify-content-center rotate-hor-center ">
       <div
         className="card border-info ml-2 mb-3 d-flex justify-content-center "
         style={{ maxWidth: 250 }}
